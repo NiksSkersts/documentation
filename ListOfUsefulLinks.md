@@ -36,11 +36,13 @@
 - [cppreference index](https://en.cppreference.com/w/)
 - [cppreferences](https://en.cppreference.com/w/cpp/language/constructor)
 - [vector in cpp](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+- [Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
 
-[Qt]
+[Raylib]
 
-- [Qopenglwidget](https://doc.qt.io/qt-6/qopenglwidget.html)
-- [QPushButton](https://wiki.qt.io/How_to_Use_QPushButton)
+- [Cheatsheet - PDF](https://www.raylib.com/cheatsheet/raylib_cheatsheet.pdf)
+- [Cheatsheet - HTML](https://www.raylib.com/cheatsheet/cheatsheet.html)
+- [Sources](https://github.com/raysan5/raylib)
 
 [Inspiration]
 
