@@ -44,6 +44,10 @@
 - [Cheatsheet - HTML](https://www.raylib.com/cheatsheet/cheatsheet.html)
 - [Sources](https://github.com/raysan5/raylib)
 
+[SQlite]
+
+- [Using SQlite for game storage](https://jaakan.nevargames.com/blog/2015/weekly-update-15/)
+
 [Inspiration]
 
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD)
