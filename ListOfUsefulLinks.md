@@ -29,9 +29,21 @@
 [How-to]
 
 - [How-to Cmakelists.txt](https://web.archive.org/web/20141116113322/http://preetisblog.com/programming/how-to-write-cmakelists-txt)
-
-
+- [MRobertEvers - It's a good thing I'm not using tuples](https://gist.github.com/MRobertEvers/99d6a99d839d2be3346a8c3809eb36ec)
+- [Polygon Grid](https://people.sc.fsu.edu/~jburkardt/cpp_src/polygon_grid/polygon_grid.html)
+- [cplusplus - tutorial](https://www.cplusplus.com/doc/tutorial/)
 [Lang]
+- [cppreference index](https://en.cppreference.com/w/)
+- [cppreferences](https://en.cppreference.com/w/cpp/language/constructor)
+- [vector in cpp](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+- [Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
+
+[Raylib]
+
+- [Cheatsheet - PDF](https://www.raylib.com/cheatsheet/raylib_cheatsheet.pdf)
+- [Cheatsheet - HTML](https://www.raylib.com/cheatsheet/cheatsheet.html)
+- [Sources](https://github.com/raysan5/raylib)
+
 
 - [cppreferences](https://en.cppreference.com/w/cpp/language/constructor)
 - [vector in cpp](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
@@ -40,3 +52,12 @@
 [Markdown]
 
 - [adam-p - Md cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+=======
+[SQlite]
+
+- [Using SQlite for game storage](https://jaakan.nevargames.com/blog/2015/weekly-update-15/)
+
+[Inspiration]
+
+- [OpenTTD](https://github.com/OpenTTD/OpenTTD)
+
